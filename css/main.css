@@ -1,0 +1,82 @@
+body{
+    padding: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(183, 241, 241);
+}
+.titel{
+    font-size: 50px;
+    text-align: center;
+}
+.wrapperForm{
+    justify-content: center;
+    display: flex;
+}
+.input{
+    margin-right: 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+}
+.input:hover{
+    background-color: rgb(31, 31, 231);
+    color: #fff;
+    border: none;
+    transition: 0.6s;
+}
+.btn{
+    font-size: 20px;
+    border-radius:15px;
+    border: none;
+}
+.btn:hover{
+    background: rgb(223, 64, 64);
+    color: #fff;
+    transition: all 0.7s;
+}
+.formText{
+    margin-right: 20px;
+    font-size: 20px;
+}
+.wrapper_titel{
+    margin-bottom: 100px;
+}
+
+.wrapper_piyoda{
+    background-color: #fff;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border: none;
+}
+.wrapper_piyoda:hover{
+    background-color: rgb(48, 48, 230);
+    color: #fff;
+    transition: all 0.7s;
+}
+.piyoda_text{
+    font-size: 30px;
+    text-align: center;
+}
+.Piyoda{
+    font-size: 30px;
+    text-align: center;
+}
+.vel{
+    font-size: 30px;
+    text-align: center;
+}
+.car{
+    font-size: 30px;
+    text-align: center;
+}
+.sam{
+    font-size: 30px;
+    text-align: center;
+}
+.wrapper_box{
+    gap: 30px;
+    justify-content: center;
+    display: flex;
+}
